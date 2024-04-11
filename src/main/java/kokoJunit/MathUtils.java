@@ -1,5 +1,6 @@
 package kokoJunit;
 
+
 public class MathUtils {
 
 
@@ -23,4 +24,7 @@ public class MathUtils {
     }
 
 
+    public int multiply(int i, int i1) {
+        return i*i1;
+    }
 }
